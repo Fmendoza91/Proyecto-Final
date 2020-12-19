@@ -1,0 +1,11 @@
+				@font-face {
+					font-family: 'arjulian';
+					src: url('/wordpress/wp-content/uploads/useanyfont/2825Arjulian.woff2') format('woff2'),
+						url('/wordpress/wp-content/uploads/useanyfont/2825Arjulian.woff') format('woff');
+				}
+
+				.arjulian{font-family: 'arjulian' !important;}
+
+				.et_gf_arjulian{background:none !important;font-family:arjulian;text-indent:0 !important;font-size:25px;}
+
+		
